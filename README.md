@@ -79,6 +79,10 @@ The core database structure, sample data, and SQL practice queries have been com
 
 Further work includes preparing reusable SQL scripts, an ER diagram, and additional project documentation.
 
+### Entity Relationship Diagram
+
+![GameVault ER Diagram](diagrams/gamevault_erd.png)
+
 ---
 
 ## 🇷🇺 Русский
@@ -155,3 +159,7 @@ GameVault — учебный проект реляционной базы дан
 Основная структура базы данных, тестовые данные и практические SQL-запросы подготовлены.
 
 Следующие этапы — подготовка SQL-скриптов для повторного создания базы данных, ER-диаграммы и дополнительной документации проекта.
+
+### ER-диаграмма базы данных
+
+![ER-диаграмма GameVault](diagrams/gamevault_erd.png)
