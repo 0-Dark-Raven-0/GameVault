@@ -71,8 +71,7 @@ The database structure and data relationships have been manually audited, includ
 
 ### Technologies
 
-- MySQL
-- SQL
+- Database: MySQL 8.4.11
 
 ### Project Status
 
@@ -149,8 +148,7 @@ GameVault — учебный проект реляционной базы дан
 
 ### Используемые технологии
 
-- MySQL
-- SQL
+- Database: MySQL 8.4.11
 
 ### Статус проекта
 
