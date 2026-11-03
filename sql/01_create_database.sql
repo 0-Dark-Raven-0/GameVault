@@ -1,6 +1,7 @@
 -- ============================================
 -- GameVault
 -- Database creation
+-- MySQL 8.4.11
 -- ============================================
 
 CREATE DATABASE IF NOT EXISTS gamevault
